@@ -16,64 +16,64 @@ def index():
     # email = fake.email()
     response =[
    {
-      "Product":"Latitude",
-      "Price":1200,
-      "Country":"U.K"
+      "Legend":"Latitude",
+      "Data":1200,
+      "Label":"U.K"
    },
    {
-      "Product":"Precision",
-      "Price":2400,
-      "Country":"U.K"
+      "Legend":"Precision",
+      "Data":2400,
+      "Label":"U.K"
    },
    {
-      "Product":"Optiplex",
-      "Price":3600,
-      "Country":"U.K"
+      "Legend":"Optiplex",
+      "Data":3600,
+      "Label":"U.K"
    },
    {
-      "Product":"Precision",
-      "Price":1600,
-      "Country":"U.S"
+      "Legend":"Precision",
+      "Data":1600,
+      "Label":"U.S"
    },
    {
-      "Product":"Latitude",
-      "Price":2600,
-      "Country":"U.S"
+      "Legend":"Latitude",
+      "Data":2600,
+      "Label":"U.S"
    },
    {
-      "Product":"Optiplex",
-      "Price":3200,
-      "Country":"U.S"
+      "Legend":"Optiplex",
+      "Data":3200,
+      "Label":"U.S"
    },
    {
-      "Product":"Latitude",
-      "Price":1700,
-      "Country":"Aus"
+      "Legend":"Latitude",
+      "Data":1700,
+      "Label":"Aus"
    },
    {
-      "Product":"Optiplex",
-      "Price":2500,
-      "Country":"Aus"
+      "Legend":"Optiplex",
+      "Data":2500,
+      "Label":"Aus"
    },
    {
-      "Product":"Precision",
-      "Price":3400,
-      "Country":"Aus"
+      "Legend":"Precision",
+      "Data":3400,
+      "Label":"Aus"
    },
    {
-      "Product":"Optiplex",
-      "Price":1200,
-      "Country":"India"
+      "Legend":"Optiplex",
+      "Data":1200,
+      "Label":"India"
    },
    {
-      "Product":"Precision",
-      "Price":1900,
-      "Country":"India"
+      "Legend":"Precision",
+      "Data":1900,
+      "Label":"India"
    },
    {
-      "Product":"Latitude",
-      "Price":2600,
-      "Country":"India"
+      "Legend":"Latitude",
+      "Data":2600,
+      "Label":"India"
    }
 ]
 
