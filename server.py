@@ -18,62 +18,74 @@ def index():
    {
       "Legend":"Latitude",
       "Data":1200,
-      "Label":"U.K"
+      "Label":"U.K",
+      "Title": "Sales Numbers for Dell Products"
    },
    {
       "Legend":"Precision",
       "Data":2400,
-      "Label":"U.K"
+      "Label":"U.K",
+      "Title": "Sales Numbers for Dell Products"
    },
    {
       "Legend":"Optiplex",
       "Data":3600,
-      "Label":"U.K"
+      "Label":"U.K",
+      "Title": "Sales Numbers for Dell Products"
    },
    {
       "Legend":"Precision",
       "Data":1600,
-      "Label":"U.S"
+      "Label":"U.S",
+      "Title": "Sales Numbers for Dell Products"
    },
    {
       "Legend":"Latitude",
       "Data":2600,
-      "Label":"U.S"
+      "Label":"U.S",
+      "Title": "Sales Numbers for Dell Products"
    },
    {
       "Legend":"Optiplex",
       "Data":3200,
-      "Label":"U.S"
+      "Label":"U.S",
+      "Title": "Sales Numbers for Dell Products"
    },
    {
       "Legend":"Latitude",
       "Data":1700,
-      "Label":"Aus"
+      "Label":"Aus",
+      "Title": "Sales Numbers for Dell Products"
    },
    {
       "Legend":"Optiplex",
       "Data":2500,
-      "Label":"Aus"
+      "Label":"Aus",
+      "Title": "Sales Numbers for Dell Products"
    },
    {
       "Legend":"Precision",
       "Data":3400,
-      "Label":"Aus"
+      "Label":"Aus",
+      "Title": "Sales Numbers for Dell Products"
    },
    {
       "Legend":"Optiplex",
       "Data":1200,
-      "Label":"India"
+      "Label":"India",
+      "Title": "Sales Numbers for Dell Products"
    },
    {
       "Legend":"Precision",
       "Data":1900,
-      "Label":"India"
+      "Label":"India",
+      "Title": "Sales Numbers for Dell Products"
    },
    {
       "Legend":"Latitude",
       "Data":2600,
-      "Label":"India"
+      "Label":"India",
+      "Title": "Sales Numbers for Dell Products"
    }
 ]
 
